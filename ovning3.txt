@@ -1,0 +1,2 @@
+Skapa en ny fil i din nya projektkatalog med t.ex. Notepad som
+innehåller lite text och spara den.
